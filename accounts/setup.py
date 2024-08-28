@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-accounts',
-    version='1.0.0',
+    name='scott-accounts',
+    version='1.0.1',
     packages=find_packages(),
     include_package_data=True,
     license='MIT License',

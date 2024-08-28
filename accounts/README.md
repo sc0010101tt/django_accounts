@@ -14,4 +14,4 @@ A reusable Django app for user authentication and account management.
 1. Install the package:
 
    ```bash
-   pip install django-accounts
+   pip install scott-accounts

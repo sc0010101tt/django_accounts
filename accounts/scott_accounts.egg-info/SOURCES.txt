@@ -1,0 +1,7 @@
+README.md
+setup.py
+migrations/__init__.py
+scott_accounts.egg-info/PKG-INFO
+scott_accounts.egg-info/SOURCES.txt
+scott_accounts.egg-info/dependency_links.txt
+scott_accounts.egg-info/top_level.txt
